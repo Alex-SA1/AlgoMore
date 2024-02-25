@@ -221,6 +221,12 @@ const cifreDeControl = () => {
 
             <br></br>
 
+          <hr className="w-48 h-1 mx-auto my-4 border-0 rounded md:my-10 bg-gray-700"></hr>
+
+          <div className="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16">
+             <h1 className="mb-4 text-4xl font-extrabold tracking-tight leading-none md:text-5xl lg:text-6xl text-gray-300">Implementările comunității</h1>
+          </div>
+
 
           {/*Implementarile userilor afisare */}
           
